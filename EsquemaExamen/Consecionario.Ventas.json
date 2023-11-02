@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "654083dd243ddf04a893fe23"
+  },
+  "Vendedor_id": {
+    "$oid": "654077e3243ddf04a893fe1b"
+  },
+  "Vehiculos_id": {
+    "$oid": "65405705243ddf04a893fe0d"
+  },
+  "Cliente_id": {
+    "$oid": "65406985243ddf04a893fe0f"
+  },
+  "CostoTotal": 0,
+  "DiaVenta": ""
+}]
